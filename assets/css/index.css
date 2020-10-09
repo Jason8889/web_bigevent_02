@@ -32,9 +32,7 @@ a {
     transition: none !important;
 }
 
-.layui-side-scroll {
-    width: 200px;
-}
+
 
 .userinfo {
     /* display: inline-block; */
